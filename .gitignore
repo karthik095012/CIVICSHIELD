@@ -1,0 +1,8 @@
+lib/config/supabase_config.dart
+.env
+.env.local
+*.key
+*.jks
+build/
+.dart_tool/
+.flutter/
