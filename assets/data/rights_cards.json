@@ -1,0 +1,224 @@
+[
+  {
+    "id": "r001",
+    "title": "During a Traffic Stop",
+    "category": "traffic",
+    "icon": "traffic",
+    "summary": "Know exactly what officers can and cannot do when they stop your vehicle",
+    "details": "When a traffic police officer stops your vehicle, there is a defined legal process they must follow. Understanding this process protects you and helps you remain calm during the interaction.",
+    "dos": [
+      "Stay calm and pull over safely to the left",
+      "Keep your hands visible and be polite",
+      "Ask the officer to identify themselves — name and badge number",
+      "Request an official challan slip if you are being fined",
+      "Note the officer's name, badge number, time, and location",
+      "Show digital documents (DigiLocker) — legally valid as physical copies",
+      "Ask: 'What is the specific violation?' and note the response"
+    ],
+    "donts": [
+      "Do NOT pay cash without getting an official receipt/challan",
+      "Do NOT hand over original documents — digital or photocopies are sufficient",
+      "Do NOT argue or physically resist — note and escalate later",
+      "Do NOT sign a blank form or any document you haven't read",
+      "Do NOT ignore if you believe the fine is wrong — note details and contest later"
+    ],
+    "myths": [
+      {"myth": "You must always pay the fine on the spot", "fact": "You can pay online via e-challan portal within 60-90 days"},
+      {"myth": "Officers can confiscate your phone", "fact": "Officers cannot confiscate your personal property without a court order"},
+      {"myth": "DigiLocker documents are not valid", "fact": "Supreme Court ruling confirms DigiLocker documents are fully legally valid"}
+    ],
+    "emergency_contacts": ["Police Control Room: 100", "Karnataka Traffic Helpline: 080-22943225"],
+    "keywords": ["traffic stop", "fine", "challan", "police", "vehicle check"]
+  },
+  {
+    "id": "r002",
+    "title": "Challan & Receipt Rights",
+    "category": "traffic",
+    "icon": "receipt",
+    "summary": "Every fine must come with an official challan. No receipt = possible misconduct.",
+    "details": "An official motor vehicle challan is a legal document. Any enforcement without issuing a proper challan is potentially illegal and may constitute misconduct or corruption.",
+    "dos": [
+      "Always demand an official challan/receipt before paying any fine",
+      "Check that the challan has: officer name, badge number, vehicle details, violation section, fine amount",
+      "Take a photo of the challan for your records",
+      "Verify the challan online via the state e-challan portal",
+      "Pay fines through official digital payment channels",
+      "Keep challan receipts for at least 6 months"
+    ],
+    "donts": [
+      "Do NOT pay cash informally without an official challan",
+      "Do NOT accept verbal assurances — get everything in writing",
+      "Do NOT pay if the challan amount doesn't match the official fine for that violation",
+      "Do NOT lose your challan — it's your legal proof of payment"
+    ],
+    "myths": [
+      {"myth": "An officer can collect cash without giving a challan", "fact": "This is illegal. Demand a challan. Report if refused."},
+      {"myth": "You must pay extra amounts the officer mentions", "fact": "Fines are fixed by law. No 'processing fees' or informal amounts are legal."}
+    ],
+    "emergency_contacts": ["Karnataka e-Challan Portal: parivahan.gov.in", "Anti-Corruption Hotline: 1064"],
+    "keywords": ["challan", "receipt", "fine payment", "official document"]
+  },
+  {
+    "id": "r003",
+    "title": "Bribery & Misconduct",
+    "category": "anticorruption",
+    "icon": "shield",
+    "summary": "Being asked for informal payment? Know your rights and how to report it.",
+    "details": "Any government official asking for unofficial payment (bribe) is committing a criminal offense under the Prevention of Corruption Act, 1988. You have rights and safe ways to report this.",
+    "dos": [
+      "Stay calm — do not panic or argue aggressively",
+      "Politely decline any request for unofficial payment",
+      "Note officer details: name, badge number, location, time",
+      "If safe, discretely record audio or note details on your phone",
+      "Request an official challan — a corrupt officer will often back down",
+      "Report to the Anti-Corruption Bureau (ACB) immediately after",
+      "Use CivicShield's Report Misuse feature to document the incident"
+    ],
+    "donts": [
+      "Do NOT pay the bribe if it can be avoided safely",
+      "Do NOT confront or accuse the officer loudly at the scene",
+      "Do NOT delete any notes or recordings you make",
+      "Do NOT ignore the incident — reporting protects future citizens"
+    ],
+    "myths": [
+      {"myth": "Reporting corruption is dangerous and useless", "fact": "India has legal whistleblower protection. ACB takes complaints seriously."},
+      {"myth": "If you pay once, it's over", "fact": "Unreported bribery encourages repeat behavior by the same officer."}
+    ],
+    "emergency_contacts": ["Anti-Corruption Bureau Karnataka: 1064", "IVRS Complaint: 9480803800", "Online: acb.karnataka.gov.in"],
+    "keywords": ["bribery", "misconduct", "corruption", "unofficial payment", "complaint"]
+  },
+  {
+    "id": "r004",
+    "title": "Right to Information (RTI)",
+    "category": "rti",
+    "icon": "info",
+    "summary": "Every citizen can ask any government office for information. It's your legal right.",
+    "details": "The Right to Information Act 2005 gives every citizen the right to request information from any public authority. The authority must respond within 30 days (48 hours for life/liberty matters).",
+    "dos": [
+      "Write a simple application addressed to the Public Information Officer (PIO)",
+      "Pay ₹10 as application fee (BPL card holders are exempt)",
+      "Clearly state what information you need — be specific",
+      "Keep a copy of your application with acknowledgement receipt",
+      "Follow up if no response in 30 days — file First Appeal to Appellate Authority",
+      "You can ask for copies of documents, inspection of records, or work samples"
+    ],
+    "donts": [
+      "Do NOT share your reasons for the request — you don't have to explain why",
+      "Do NOT ask for information that affects national security or personal privacy of others",
+      "Do NOT miss the first appeal deadline (30 days from response/non-response)"
+    ],
+    "myths": [
+      {"myth": "You need a lawyer to file an RTI", "fact": "Anyone can file RTI. No lawyer needed. Simple one-page letter."},
+      {"myth": "RTI applications take years", "fact": "Response mandated within 30 days. Life/liberty matters: 48 hours."}
+    ],
+    "emergency_contacts": ["India RTI Online Portal: rtionline.gov.in", "Karnataka RTI: chandana.kar.nic.in"],
+    "keywords": ["RTI", "right to information", "government records", "transparency", "information request"]
+  },
+  {
+    "id": "r005",
+    "title": "Consumer Rights",
+    "category": "consumer",
+    "icon": "shopping_bag",
+    "summary": "Overcharged, received defective goods, or unfair trade practice? Fight back legally.",
+    "details": "The Consumer Protection Act 2019 and the establishment of Consumer Commissions give you strong legal tools when businesses violate your consumer rights.",
+    "dos": [
+      "Keep all receipts, bills, and digital transaction records",
+      "Note down the name of the product, company, date of purchase",
+      "First approach the company's customer service with written complaint",
+      "File complaint on the National Consumer Helpline (NCH): 1800-11-4000",
+      "File complaint with Consumer Commission for matters above ₹1 lakh",
+      "You can claim: refund, replacement, compensation AND cost of legal proceedings"
+    ],
+    "donts": [
+      "Do NOT discard packaging until you verify the product works",
+      "Do NOT settle verbally — get all resolutions in writing",
+      "Do NOT miss the 2-year limitation period for filing complaints"
+    ],
+    "myths": [
+      {"myth": "Going to consumer court takes years and costs a lot", "fact": "Consumer courts target 90-day resolution. Filing fee is nominal (₹200-2000)."},
+      {"myth": "Only big purchases can be complained about", "fact": "Any unfair trade practice, defective good, or deficient service is valid."}
+    ],
+    "emergency_contacts": ["National Consumer Helpline: 1800-11-4000", "E-Daakhil (online filing): edaakhil.nic.in"],
+    "keywords": ["consumer rights", "refund", "defective product", "overcharging", "consumer court"]
+  },
+  {
+    "id": "r006",
+    "title": "Women's Safety Rights",
+    "category": "women",
+    "icon": "female",
+    "summary": "Special legal protections for women in public spaces, workplace, and against harassment.",
+    "details": "Multiple laws protect women from harassment, stalking, assault, and workplace discrimination. Know these rights to be empowered and to help others.",
+    "dos": [
+      "Report any harassment to the nearest police station immediately",
+      "File Zero FIR — you can file at ANY police station, not just the one in jurisdiction",
+      "Use the Nirbhaya App or Shakti App for instant emergency alert",
+      "Workplace sexual harassment: file Internal Complaints Committee (ICC) complaint",
+      "Demand a female officer be present when being questioned",
+      "One Stop Centre (Sakhi): available in every district for comprehensive support"
+    ],
+    "donts": [
+      "Do NOT accept informal resolution of sexual harassment at the workplace",
+      "Do NOT be discouraged by police inaction — escalate to SP/DCP level",
+      "Do NOT delete any digital evidence (messages, call logs, screenshots)"
+    ],
+    "myths": [
+      {"myth": "Police won't register a women's safety complaint at night", "fact": "Zero FIR and Zero Delay protocols mandate immediate response."},
+      {"myth": "Workplace harassment complaints are futile", "fact": "PoSH Act mandates ICC in every organization with 10+ employees."}
+    ],
+    "emergency_contacts": ["Women's Helpline: 1091", "Police Emergency: 100", "One Stop Centre (Sakhi): 7827170170", "Nirbhaya Helpline: 112"],
+    "keywords": ["women rights", "harassment", "safety", "FIR", "workplace", "PoSH"]
+  },
+  {
+    "id": "r007",
+    "title": "Free Legal Aid Entitlement",
+    "category": "legal",
+    "icon": "gavel",
+    "summary": "If you can't afford a lawyer, the government must provide you one for free.",
+    "details": "The Legal Services Authorities Act 1987 guarantees free legal aid to eligible persons through NALSA and State Legal Services Authorities (SLSA). This includes free legal representation, advice, and drafting assistance.",
+    "dos": [
+      "Approach the District Legal Services Authority (DLSA) in your district",
+      "Apply for legal aid if your income is below ₹3 lakh per year",
+      "SC/ST members, women, children, disabled persons, and accident victims are automatically eligible",
+      "NALSA Helpline 15100 for immediate guidance",
+      "Lok Adalat settlements are fast, free, and binding"
+    ],
+    "donts": [
+      "Do NOT assume free lawyers are low quality — DLSA empanels experienced advocates",
+      "Do NOT pay anything for NALSA/DLSA provided legal services",
+      "Do NOT miss court dates provided by your legal aid lawyer"
+    ],
+    "myths": [
+      {"myth": "Free legal aid means no proper lawyer", "fact": "NALSA empanels qualified advocates. Services are equivalent to private lawyers."},
+      {"myth": "Only very poor people can get free legal aid", "fact": "Women, children, SC/ST, disabled, and accident victims are eligible regardless of income."}
+    ],
+    "emergency_contacts": ["NALSA Helpline: 15100", "Karnataka SLSA: 080-22302500", "Online: nalsa.gov.in"],
+    "keywords": ["free legal aid", "NALSA", "lawyer", "legal help", "DLSA", "Lok Adalat"]
+  },
+  {
+    "id": "r008",
+    "title": "FIR & Police Complaint Rights",
+    "category": "police",
+    "icon": "local_police",
+    "summary": "Every citizen has the right to file an FIR. Refusal by police is a criminal offense.",
+    "details": "Under Section 154 of the Code of Criminal Procedure (CrPC), police are obligated to register an FIR for all cognizable offenses. Refusal to register is a punishable offense.",
+    "dos": [
+      "Go to the nearest police station and request to file an FIR",
+      "If refused, send written complaint to the SP/DCP of the district",
+      "You can file complaint directly to Magistrate under Section 156(3) CrPC",
+      "Request a copy of the FIR — you are legally entitled to one free of charge",
+      "Note the FIR number — use it for all future follow-ups",
+      "Zero FIR: file at ANY police station, it will be transferred to correct jurisdiction"
+    ],
+    "donts": [
+      "Do NOT accept a 'Daily Diary' entry instead of an FIR for serious offenses",
+      "Do NOT let police delay your complaint without a cognizable reason",
+      "Do NOT give up if first station refuses — escalate to SP/Magistrate"
+    ],
+    "myths": [
+      {"myth": "Police can refuse to file an FIR if they feel it isn't worth it", "fact": "Refusal to register FIR for cognizable offenses is punishable under CrPC."},
+      {"myth": "You need to file FIR only in the area where crime happened", "fact": "Zero FIR allows filing at any station for immediate action."}
+    ],
+    "emergency_contacts": ["Police Emergency: 100", "State Complaint Portal: Karnataka Police: ksp.gov.in"],
+    "keywords": ["FIR", "police complaint", "zero FIR", "report crime", "cognizable offense"]
+  }
+]
