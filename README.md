@@ -1347,11 +1347,27 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE.
 ```
 
+
+---
+
+## 👥 Team
+
+<div align="center">
+
+| | Name | Role |
+|---|------|------|
+| 👨‍💻 | **Karthik R Nair** | Lead Developer · Architecture · UI/UX |
+| 👨‍💻 | **Abhinand Baiju Smitha** | Co-Developer · Research · Data |
+
+*Built for the CivicShield Hackathon — April 2026*
+
+</div>
+
 ---
 
 <div align="center">
 
-**Built with ❤️ for civic empowerment in India**
+**Built with ❤️ by Karthik R Nair & Abhinand Baiju Smitha**
 
 *CivicShield v1.0 · Flutter Hackathon MVP · April 2026*
 
@@ -1363,3 +1379,4 @@ DEALINGS IN THE SOFTWARE.
 [![SDG 16](https://img.shields.io/badge/SDG%2016-Peace%20%26%20Justice-3498DB)](https://sdgs.un.org/goals/goal16)
 
 </div>
+
