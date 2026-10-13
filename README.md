@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/🛡️-CivicShield-00796B?style=for-the-badge&labelColor=0D1B2A" />
 
-# CivicShield
+#CivicShield
 
 ### *Know Your Rights. Verify Enforcement. Strengthen Accountability.*
 
